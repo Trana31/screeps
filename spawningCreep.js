@@ -4,7 +4,7 @@
  *
  * You can import it from another modules like this:
  * var mod = require('spawningCreep');
- * mod.thing == 'a thing'; // true
+ * mod.thing == 'a thing'; // true todo
  */
 
 module.exports = {
